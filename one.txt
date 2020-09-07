@@ -1,2 +1,4 @@
+New Heading
+-----------
 This is some text.
 And another line.
